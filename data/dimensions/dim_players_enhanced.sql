@@ -459,7 +459,6 @@ INSERT INTO dim_players (player_id, username, country, preferred_time_control) V
 (458, 'blackhat46', 'Canada', 'blitz'),
 (459, 'fabioamsouza', 'Norway', 'blitz'),
 (460, 'piedperson', 'Germany', 'blitz'),
-INSERT INTO dim_players (player_id, username, country, preferred_time_control) VALUES
 (461, 'elektra_boss', 'Russia', 'blitz'),
 (462, 'pandora_win', 'India', 'bullet'),
 (463, 'king_benjamin', 'USA', 'rapid'),

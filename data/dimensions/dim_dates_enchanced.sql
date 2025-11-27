@@ -476,7 +476,7 @@ INSERT INTO dim_dates (date_id, year, month, day, weekday) VALUES
 (471, 2024, 4, 15, 'Monday'),
 (472, 2024, 4, 16, 'Tuesday'),
 (473, 2024, 4, 17, 'Wednesday'),
-(474, 4, 18, 'Thursday'),
+(474, 2024, 4, 18, 'Thursday'),
 (475, 2024, 4, 19, 'Friday'),
 (476, 2024, 4, 20, 'Saturday'),
 (477, 2024, 4, 21, 'Sunday'),
