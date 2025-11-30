@@ -19,7 +19,7 @@ CREATE TABLE dim_openings (
 
 CREATE TABLE dim_time_controls (
     time_control_id SERIAL PRIMARY KEY,
-    category TEXT, -- bullet/blob/blitz/rapid/classical
+    category TEXT, -- bullet/blitz/rapid/classical
     initial_time INT,
     increment INT
 );
